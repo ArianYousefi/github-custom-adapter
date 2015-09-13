@@ -134,10 +134,6 @@
     </types>
     <types>
         <members>*</members>
-        <name>Folder</name>
-    </types>
-    <types>
-        <members>*</members>
         <name>Group</name>
     </types>
     <types>
